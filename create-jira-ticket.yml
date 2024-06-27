@@ -3,7 +3,7 @@ name: Create JIRA Ticket
 on:
   push:
     branches:
-      - main  # Replace with your branch name where you want to trigger this action
+      - main  # Replace with your branch name where you want to trigger
 
 jobs:
   create-jira-ticket:
